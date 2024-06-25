@@ -1,5 +1,7 @@
 
-# 👋 + ( 🌻 - 🥀 ) = 🦬
+```js
+("she" + + "a" + (1/0).toString()[0] + (typeof "a").toString()[5] + "a" + (typeof 0).toString()[0] + (!1).toString()[3]).toLowerCase()
+```
 <!--
 **orvn/orvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
